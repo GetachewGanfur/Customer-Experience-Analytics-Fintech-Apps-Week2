@@ -1,0 +1,12 @@
+google-play-scraper
+pandas
+numpy
+python-dateutil
+transformers
+# torch version for Python 3.13
+torch
+spacy
+nltk
+scikit-learn
+oracledb
+python-dotenv 
