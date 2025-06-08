@@ -24,6 +24,9 @@ wheels/
 venv/
 env/
 ENV/
+# Data
+data/
+.data/
 
 # IDE
 .idea/
