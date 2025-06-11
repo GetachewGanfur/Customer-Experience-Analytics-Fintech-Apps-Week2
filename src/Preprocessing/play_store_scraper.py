@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 import logging
 
-# Set up logging
+# Set up logging 
 logging.basicConfig(filename='../log/scraper.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 class PlayStoreScraper:

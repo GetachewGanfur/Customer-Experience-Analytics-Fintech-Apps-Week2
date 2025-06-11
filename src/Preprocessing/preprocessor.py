@@ -19,7 +19,7 @@ class Preprocessor:
 
     def preprocess_data(self):
         for df in self.dataframes:
-            # Remove duplicates
+            # Remove  duplicates
             df.drop_duplicates(subset=['review'], inplace=True)
 
             # Normalize dates
